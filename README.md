@@ -1,5 +1,5 @@
 # icebreakerMaze
-Final project that I created for my Intro to CS class at Colby College. 
+Final project that I created for my Intro to CS class. 
 
 # Background
 For the project, I wanted to implement a maze game to simulate the movement of an icebreaker ship through the Arctic Ocean. The main concepts that I implemented are inheritance, recursion, and use of the Zelle graphics package created by John Zelle in the book "Python Programming: An Introduction to Computer Science." To find the path, I implemented a basic wavefront algorithm that used a 2D array based map to navigate through the obstacles. 
